@@ -1,16 +1,16 @@
 
 const MENU_TRACKS = [
-  'music/Chrome Bloom.mp3',
-  'music/Chrome Bloom 2.mp3'
+  'music/chrome_bloom.mp3',
+  'music/chrome_bloom_2.mp3'
 ];
 
 const BATTLE_TRACKS = [
-  'music/Neon Siege Protocol.mp3',
-  'music/Internet Fame.mp3',
-  'music/Cyber Calculation.mp3',
-  'music/Cyber Base Memewave.mp3',
-  'music/Cyber Base Memewave 2.mp3',
-  'music/Skyline Overclock.mp3'
+  'music/neon_siege_protocol.mp3',
+  'music/internet_fame.mp3',
+  'music/cyber_calculation.mp3',
+  'music/cyber_base_memewave.mp3',
+  'music/cyber_base_memewave_2.mp3',
+  'music/skyline_overclock.mp3'
 ];
 
 class AudioService {
